@@ -18,9 +18,8 @@ public class MainActivity extends AppCompatActivity {
     EditText edit_input_number;
     Button button;
     TextView text_status;
-
-    Boolean win = 0;
-    int n;
+    
+    int n=0;
 
     @SuppressLint("WrongViewCast")
     @Override
